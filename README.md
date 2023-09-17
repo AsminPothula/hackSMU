@@ -1,5 +1,11 @@
 # HackSMU
 
+Description:
+
+We worked on this project with the hope that it will be extremely helpful for MLH to keep track of all their organizing teams and participants from various different institutions outside of the events, in terms of networking opportunities, potential collaborators, and staying connected with the community (marketing). 
+For the organizing teams and participants, this would act as a platform to build teams, stay in touch after the events with fellow participants and employers, and be in loop with what’s happening at MLH!
+
+
 Compiling Direction:
 
 1. Navigate to Server 
