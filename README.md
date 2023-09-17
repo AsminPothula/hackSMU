@@ -1,37 +1,37 @@
 # HackSMU
 
-Compiling Direction 
+**Compiling Direction **
 
-Navigate to Server 
+1. Navigate to Server 
 
 => cd server
 
-Installing required dependencies
+2. Installing required dependencies
 
 => npm install
 
-Navigate back to main folder
+3. Navigate back to main folder
 
 => cd ..
 
-Navigate to client
+4. Navigate to client
 
 => cd client
 
-Navigate back to main directry and to the server directory 
+5. Navigate back to main directry and to the server directory 
 
 => cd .. && cd server
 
-start the server on local port 
+6. Start the server on local port 
 
 => node index.js
 
-Navigate back to main directry and to the client directory to run the react application
-
+7. Navigate back to main directry and to the client directory to run the react application
 
 => npm run start
 
-Snippets : 
+
+**Snippets **: 
 
 <img width="1415" alt="Screen Shot 2023-09-17 at 11 02 03 AM" src="https://github.com/athrvaarora/HackSMU/assets/123106586/827061e8-9834-4354-8d29-40fa06b256c1">
 
