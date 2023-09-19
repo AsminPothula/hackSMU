@@ -1,4 +1,4 @@
-# HackSMU
+# MLH Connect
 
 Description:
 
